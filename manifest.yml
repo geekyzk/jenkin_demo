@@ -1,0 +1,6 @@
+---
+applications:
+- name: springboot-first
+  memory: 512M
+  host: springboot-first
+  path: target/demo-0.0.1-SHAPSHOT.jar
